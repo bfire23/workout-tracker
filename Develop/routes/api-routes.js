@@ -1,6 +1,8 @@
+const workout = require("../models/workoutModel");
 
 
+module.exports = function(app) {
+    
+}
 
 
-
-module.exports = function(app) {}
